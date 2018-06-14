@@ -1,2 +1,2 @@
-# leaning
+# learning
 some practice
